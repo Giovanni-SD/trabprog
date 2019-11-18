@@ -117,7 +117,7 @@
             printf("%s",cadastros);
              if (arquivo == NULL);
              getch();
-             system("cls");
+             system("cls");//
 
         break;
     }
